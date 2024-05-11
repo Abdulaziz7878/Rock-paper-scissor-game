@@ -1,0 +1,38 @@
+body {
+  background-color: #111;
+  color: white;
+  text-align: center;
+}
+.head {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+.result {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.round-button {
+  padding: 1.7rem;
+  font-size: 3rem;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+  margin-bottom: 2rem;
+}
+.reset-button,
+.auto-button,
+.yes-button,
+.no-button {
+  padding: 0.5rem 0.9rem;
+  margin-right: 1rem;
+}
+.yes-button {
+  margin-left: 5rem;
+}
+.move {
+  margin-bottom: 4rem;
+}
+.moves {
+  font-size: 3rem;
+}
